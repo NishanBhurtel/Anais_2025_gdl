@@ -18,7 +18,7 @@ Hi there! 👋 I'm Nishan Bhurtel, a passionate **Machine Learning and AI** lear
 - NumPy, Pandas, Scikit-learn 📊  
 - SQL & PostgreSQL 🗄️  
 - Django 🌐  
-- Next.js & Svelte for Frontend 🌟  
+- Next.js & react for Frontend 🌟  
 
 💡 **Key Interests**:  
 - Machine Learning Models  
