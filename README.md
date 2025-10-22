@@ -40,7 +40,7 @@ Stay tuned for more innovative projects!
 ## 🌱 What I'm Learning  
 - Advanced Neural Networks 🤖  
 - Reinforcement Learning 🕹️  
-- AI for Real-World Applications 🌍  
+- AI for Real-World Applications  🌍  
 
 ---
 
