@@ -64,7 +64,7 @@ Stay tuned for more innovative projects!
 
 ---
 
-✨ **Let's build the future of AI together!**  
+✨ **Let's build the future of AI together!**   .
 
 ---
 
